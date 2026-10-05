@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+    
+}
+#title{
+    font-size: 100px;
+    color: plum;
+    font-style: oblique;
+    font-family: fantasy;
+
+}
+div{
+    text-align: center;
+}
+#timer{
+    color:white ;
+    font-weight: bolder;
+    font-size: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color: plum;
+    color: white;
+    border-radius: 25px;
+    padding: 25px;
+    font-size: 40px;
+}
